@@ -21,3 +21,28 @@ Diamo la possibilità a chi ne ha voglia e passione di contribuire al corretto s
 Ovviamente chi ha contribuito allo sviluppo del programma otterrà una sezione speciale all'interno di esso in modo da ricordare chi ha impegnato il proprio tempo credendo nel nostro progetto.
 
 Per ora è tutto..
+
+
+# Offline Dictionary
+
+# Lang: ENG
+
+Overseas Dictionary is the first completely free, opensource digital dictionary, and most of all usable without internet connection.
+Very lightweight and with minimum requirements suitable for any computer owned by the student or teacher.
+
+# Graphic interface
+Oficio's Dictionary includes an experimental yet easy-to-use graphical interface, the aim being to create a lightweight, beautiful aesthetically pleasing but user friendly user interface.
+Let's just let go of FeedBack if there's any kind of graphic bug.
+
+# Offline Features
+As written in the title to use the program you do not have to use an internet or bluetooth connection, all you have to do is download the programam, run the setup, start it and use the appropriate keys to search for the meaning of the word concerned.
+
+# Expansion?
+At this time the project is constantly expanding, that is, there are not yet all the words present in Italian literature but for now only the most sought after main ones.
+The software is updated every day to ensure more and more vocabulary available to the student.
+
+# Why Open Source?
+We give the opportunity to those who want and passion to contribute to the proper development of the project, thanks to the users it is possible to add many more vocatives daily and you could get to a product completed 90% within a few months.
+Of course who has contributed to the development of the program will get a special section within it so remember who has committed their time believing in our project.
+
+That's all for now..
