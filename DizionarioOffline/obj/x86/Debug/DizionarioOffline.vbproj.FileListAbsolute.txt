@@ -1,0 +1,18 @@
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\DizionarioOffline\bin\Debug\DizionarioOffline.exe
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\DizionarioOffline\bin\Debug\DizionarioOffline.pdb
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\DizionarioOffline\bin\Debug\DizionarioOffline.xml
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\DizionarioOffline\obj\x86\Debug\DizionarioOffline.Form1.resources
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\DizionarioOffline\obj\x86\Debug\DizionarioOffline.Resources.resources
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\DizionarioOffline\obj\x86\Debug\DizionarioOffline.vbproj.GenerateResource.Cache
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\DizionarioOffline\obj\x86\Debug\DizionarioOffline.exe
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\DizionarioOffline\obj\x86\Debug\DizionarioOffline.xml
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\DizionarioOffline\obj\x86\Debug\DizionarioOffline.pdb
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Debug\DizionarioOffline.exe
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Debug\DizionarioOffline.xml
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Debug\DizionarioOffline.pdb
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\bin\Debug\DizionarioOffline.exe
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\bin\Debug\DizionarioOffline.pdb
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\bin\Debug\DizionarioOffline.xml
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Debug\DizionarioOffline.Form1.resources
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Debug\DizionarioOffline.Resources.resources
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Debug\DizionarioOffline.vbproj.GenerateResource.Cache
