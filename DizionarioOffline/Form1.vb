@@ -97,5 +97,110 @@
 
         End Select
     End Sub
+
+    Private Sub Button12_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button12.Click
+        Form2.Show()
+
+    End Sub
+
+    Private Sub Button11_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button11.Click
+        TextBox1.Text = Int(Rnd() * 1)
+        Select Case TextBox1.Text
+            Case 0
+                TextBox1.Text = "piccola stanza a uno o più letti a bordo delle navi, per i passeggeri e gli ufficiali; sugli aerei, piccolo locale chiuso per alloggiare l'equipaggio, ambiente di dimensioni limitate destinato a vari usi "
+
+
+        End Select
+    End Sub
+
+    Private Sub Button13_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button13.Click
+        TextBox1.Text = Int(Rnd() * 1)
+        Select Case TextBox1.Text
+            Case 0
+                TextBox1.Text = "aggettivo, detto di imbarcazione da diporto fornita di cabina"
+
+        End Select
+    End Sub
+
+    Private Sub Button14_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button14.Click
+        TextBox1.Text = Int(Rnd() * 1)
+        Select Case TextBox1.Text
+            Case 0
+                TextBox1.Text = "participio passato di cablografare, aggettivo"
+
+        End Select
+    End Sub
+
+    Private Sub Button15_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button15.Click
+        TextBox1.Text = Int(Rnd() * 1)
+        Select Case TextBox1.Text
+            Case 0
+                TextBox1.Text = "avverbio, dal principio, di nuovo"
+
+        End Select
+    End Sub
+
+    Private Sub Button16_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button16.Click
+        TextBox1.Text = Int(Rnd() * 1)
+        Select Case TextBox1.Text
+            Case 0
+                TextBox1.Text = "agg. e s. maschile e femminile, psicologia che, chi è affetto da dacnomania"
+
+
+        End Select
+    End Sub
+
+    Private Sub Button17_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button17.Click
+        TextBox1.Text = Int(Rnd() * 1)
+        Select Case TextBox1.Text
+            Case 0
+                TextBox1.Text = "sostantivo maschile, botanica (con iniziale maiuscola) genere di alberi della famiglia delle Podocarpacee, della Nuova Zelanda e regioni limitrofe"
+
+
+        End Select
+    End Sub
+
+    Private Sub Button18_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button18.Click
+        TextBox1.Text = Int(Rnd() * 1)
+        Select Case TextBox1.Text
+            Case 0
+                TextBox1.Text = "sostantivo maschile, movimento artistico e letterario d'avanguardia nato a Zurigo nel 1916"
+
+
+        End Select
+    End Sub
+
+    Private Sub Button19_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button19.Click
+        TextBox1.Text = Int(Rnd() * 1)
+        Select Case TextBox1.Text
+            Case 0
+                TextBox1.Text = "sostantivo femminile, psicologia fenomeno nel corso del quale il soggetto ha la sensazione di vedere un altro sé stesso che gli viene incontro"
+
+
+
+        End Select
+    End Sub
+
+    Private Sub Button20_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button20.Click
+        TextBox1.Text = Int(Rnd() * 1)
+        Select Case TextBox1.Text
+            Case 0
+                TextBox1.Text = "aggettivo, mitologia epiteto di Apollo, così detto perché che si credeva fosse nato il settimo giorno del mese"
+
+
+
+        End Select
+    End Sub
+
+    Private Sub Button21_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button21.Click
+        TextBox1.Text = Int(Rnd() * 1)
+        Select Case TextBox1.Text
+            Case 0
+                TextBox1.Text = "aggettivo e sostantivo maschile, che supera, che va oltre, che avanza, che è in più"
+
+
+
+        End Select
+    End Sub
 End Class
 
