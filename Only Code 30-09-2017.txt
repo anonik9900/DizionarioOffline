@@ -202,5 +202,19 @@ Public Class Form1
 
         End Select
     End Sub
+
+    Private Sub Button22_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button22.Click
+        TextBox1.Text = Int(Rnd() * 1)
+        Select Case TextBox1.Text
+            Case 0
+                TextBox1.Text = "sostantivo maschile e femminile, studioso della lingua e della civiltà ebraiche"
+
+
+
+        End Select
+    End Sub
 End Class
+
+
+
 
