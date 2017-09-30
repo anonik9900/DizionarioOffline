@@ -8,3 +8,11 @@ C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOfflin
 C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Release\DizionarioOffline.xml
 C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Release\DizionarioOffline.pdb
 C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Release\DizionarioOffline.Form2.resources
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Release\DizionarioOffline.vbproj.ResolveComReference.cache
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\bin\Release\DizionarioOffline.exe.manifest
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\bin\Release\DizionarioOffline.application
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Release\DizionarioOffline.exe.manifest
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Release\DizionarioOffline.application

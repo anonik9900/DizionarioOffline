@@ -17,3 +17,7 @@ C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOfflin
 C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Debug\DizionarioOffline.Resources.resources
 C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Debug\DizionarioOffline.vbproj.GenerateResource.Cache
 C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Debug\DizionarioOffline.Form2.resources
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Debug\Interop.WMPLauncher.dll
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\DizionarioOffline\DizionarioOffline\obj\x86\Debug\DizionarioOffline.vbproj.ResolveComReference.cache
