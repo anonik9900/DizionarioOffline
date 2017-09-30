@@ -45,16 +45,19 @@ Partial Class Form1
         Me.Button19 = New System.Windows.Forms.Button()
         Me.Button20 = New System.Windows.Forms.Button()
         Me.Button21 = New System.Windows.Forms.Button()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.Button22 = New System.Windows.Forms.Button()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'TextBox1
         '
         Me.TextBox1.Anchor = System.Windows.Forms.AnchorStyles.Top
         Me.TextBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox1.Location = New System.Drawing.Point(12, 77)
+        Me.TextBox1.Location = New System.Drawing.Point(12, 67)
         Me.TextBox1.Multiline = True
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(859, 89)
+        Me.TextBox1.Size = New System.Drawing.Size(859, 99)
         Me.TextBox1.TabIndex = 0
         '
         'Button1
@@ -248,11 +251,31 @@ Partial Class Form1
         Me.Button21.Text = "Eccedènte"
         Me.Button21.UseVisualStyleBackColor = True
         '
+        'PictureBox1
+        '
+        Me.PictureBox1.Image = Global.DizionarioOffline.My.Resources.Resources.unnamed
+        Me.PictureBox1.Location = New System.Drawing.Point(2, -70)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(880, 637)
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox1.TabIndex = 22
+        Me.PictureBox1.TabStop = False
+        '
+        'Button22
+        '
+        Me.Button22.Location = New System.Drawing.Point(658, 205)
+        Me.Button22.Name = "Button22"
+        Me.Button22.Size = New System.Drawing.Size(75, 27)
+        Me.Button22.TabIndex = 23
+        Me.Button22.Text = "Ebraicìsta"
+        Me.Button22.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(883, 567)
+        Me.Controls.Add(Me.Button22)
         Me.Controls.Add(Me.Button21)
         Me.Controls.Add(Me.Button20)
         Me.Controls.Add(Me.Button19)
@@ -275,12 +298,14 @@ Partial Class Form1
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.PictureBox1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.Name = "Form1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Dizionario Offline "
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -307,5 +332,7 @@ Partial Class Form1
     Friend WithEvents Button19 As System.Windows.Forms.Button
     Friend WithEvents Button20 As System.Windows.Forms.Button
     Friend WithEvents Button21 As System.Windows.Forms.Button
+    Friend WithEvents PictureBox1 As System.Windows.Forms.PictureBox
+    Friend WithEvents Button22 As System.Windows.Forms.Button
 
 End Class
