@@ -1,0 +1,13 @@
+#include conio.h
+#include fixarray.lib
+#include windwebja.cpp
+
+Int Main (void)
+
+Int var1;
+Int var2;
+Int FixNo;
+Int FixSi;
+
+Show ();
+ if Var1
