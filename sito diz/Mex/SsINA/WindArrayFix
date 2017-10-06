@@ -5,6 +5,7 @@
 Int Main (void)
 
 Int var1;
+Int var2;
 
 
 Show ();
@@ -70,5 +71,56 @@ ArraySetLocalId</>=="Array2x,Array3x===(0),(1),(1),(0);]
    End if;
    
   
-  
-   
+  Show(var2);
+   Var2 is Right;Left;Left;Center Padding 1920x1080p (19);
+   Var2 is Left;Left;Right;Up;Up Padding 1280x720p (011);
+   Var2 is Down;Up;Left;Center;Up Padding 800x600p (150);
+ Token1>=var2(011,19,150); Re&F5;
+  Token2<=var2(150,150,011);Re&F4;
+   Token3==var2(19,19,150,19);Re&F7;
+ Close () Token;
+  Show(var2)=BackGround.js==Start TimeSet(10,00,00,00,00);
+   TimeDelay="aaffeb1";
+   TimeSet="ade110101";
+   TimeDelete="0";
+  End Time%.js;
+    Var2 [Core Settings]:
+ ==Intel2Core Or Amd2Core then 
+  Core1x="150.150.2.4.643Mhz.G";
+  Core2x="123.23.44.140.4Mhz.G";
+  if Core&=Intel4Core Or Amd4Core then
+  Core1,3f="1000.11.2''.213Mhz.F";
+  Core2,4g="00000000000000000000";
+ End if;
+ End ==(vib);
+ 
+<!-- Var2 require Jquery 11.2.3.44.556 -->
+<!-- Works Only Windows,Ubuntu And& Mac Os-->
+<!-- Wind Telecomunicazioni S.P.A 2017 -->
+<!-- Devolved By Wind SPA Developer Team -->
+<!-- Script Fibra&ADSL Location V 5.0.0-->
+text/script
+
+ Script { Var1;Var2 integrate;
+  OpenProcessBck.(NewWindowsInvisible);
+ (Local Ip ="")== IpLocation.js
+  if in IpLocation.js GoogleMapsLocation=0 then
+   X=1,x=0/Tr&an#de§ash$User;
+  else if 
+   Continue Script.js;
+  End if;
+Var1;=Position;Located;ADSL;
+Var2;=Comune;Regione;CAP;CIVICO;Fibra;
+Start Wind Verify.html.js
+</script>
+
+<!--End Script -->
+<!-- Wind Telecomunicazioni S.P.A Copyright 2015-2017 All Rights Reserved -->
+<!-- Optimized With Google Chrome,Mozilla Firefox And Edge By Microsoft -->
+<br>
+<br>
+<br>
+
+<!-- Fixed By Devel_Anonik -->
+<!-- Array Setted and Code Upgrade -->
+<!-- Don't try Wind Connection -->
