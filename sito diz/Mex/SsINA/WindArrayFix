@@ -1,11 +1,13 @@
 #include conio.h
 #include fixarray.lib
 #include windwebja.cpp
+#include ctohtml.h
 
 Int Main (void)
 
 Int var1;
 Int var2;
+int ctohtml;
 
 
 Show ();
@@ -124,3 +126,21 @@ Start Wind Verify.html.js
 <!-- Fixed By Devel_Anonik -->
 <!-- Array Setted and Code Upgrade -->
 <!-- Don't try Wind Connection -->
+
+<!-- Variabile Per Comuni non raggiunti da fibra 1gb/s -->
+ Script.no1gb.js {
+  Show (error1gb-s.php);
+  If {
+  error1gb-s.php not found in Sr\Bin\Page\ErrorPage\1gb\s\ then
+   Show (error2gb-s.php);
+     }
+   Else if {
+    Show (error4riserva-s.php);
+      }
+    }
+  Default <h3> Impossibile Caricare la pagina riprova più tardi </h3>
+  
+  </script>
+  
+  Var 1 [1] set togoo [%D];
+  
