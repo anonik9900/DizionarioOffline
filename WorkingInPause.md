@@ -4,6 +4,6 @@ Il progretto è stato momentaneamente messo in pausa per la revisione ed evenuta
 
 
 
-Dal 30/o1/2018 riprenderà il normale sviluppo.
+Dal 'N/A' riprenderà il normale sviluppo.
 
 Grazie per la comprensione :) 
