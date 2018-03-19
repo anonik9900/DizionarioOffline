@@ -4,6 +4,5 @@ Il progretto è stato momentaneamente messo in pausa per la revisione ed evenuta
 
 
 
-Dal 'N/A' riprenderà il normale sviluppo.
 
 Grazie per la comprensione :) 
